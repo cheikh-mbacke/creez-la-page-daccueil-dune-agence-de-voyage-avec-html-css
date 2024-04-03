@@ -10,4 +10,4 @@ J'étais amené à créer mes propres composants d'interface avec HTML et CSS af
 - Installer un environnement de développement front-end
 - Intégrer du contenu conformément à une maquette avec HTML et CSS
 
-Lien démo :** [cliquez ici](https://cheikh-mbacke.github.io/creez-la-page-daccueil-dune-agence-de-voyage-avec-html-css/)
+Lien démo : [cliquez ici](https://cheikh-mbacke.github.io/creez-la-page-daccueil-dune-agence-de-voyage-avec-html-css/)
